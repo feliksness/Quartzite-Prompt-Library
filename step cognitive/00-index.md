@@ -1,0 +1,102 @@
+# Index — 100 Cognitive Prompts
+
+- **01-structured-six-stage-reasoning.md** — Structured Six-Stage Reasoning: Forces a full restate-plan-execute-verify cycle on any hard question.
+- **02-first-principles-decomposition.md** — First-Principles Decomposition: Rebuilds a solution from bedrock truths instead of copying convention.
+- **03-deductive-validity-soundness-check.md** — Deductive Validity and Soundness Check: Separates whether an argument's logic holds from whether its premises are true.
+- **04-tree-of-approaches-explorer.md** — Tree of Approaches Explorer: Advances three genuinely different solution paths before committing to one.
+- **05-assumption-audit-before-solving.md** — Assumption Audit Before Solving: Surfaces and rates every hidden assumption before high-stakes analysis.
+- **06-fallacy-and-bias-self-scan.md** — Fallacy and Bias Self-Scan: Checks a finished analysis against the most common reasoning failures.
+- **07-socratic-self-interrogation.md** — Socratic Self-Interrogation: Interrogates each claim with how-do-I-know and what-would-falsify-it.
+- **08-counterargument-stress-test.md** — Counterargument Stress Test: Actively hunts for the strongest rebuttal before finalizing a position.
+- **09-necessary-sufficient-conditions-check.md** — Necessary vs Sufficient Conditions Check: Distinguishes what's required from what's merely enough, to avoid muddled claims.
+- **10-causal-chain-tracing.md** — Causal Chain Tracing: Traces an effect back through its actual mechanism, step by step.
+- **11-analogy-validity-checker.md** — Analogy Validity Checker: Tests whether a comparison holds structurally or only on the surface.
+- **12-hidden-premise-excavator.md** — Hidden Premise Excavator: Digs out the unstated premises an argument secretly depends on.
+- **13-reductio-ad-absurdum-tester.md** — Reductio Ad Absurdum Tester: Pushes a claim to its logical extreme to see if it collapses.
+- **14-multi-step-syllogism-builder.md** — Multi-Step Syllogism Builder: Chains simple valid syllogisms into a longer verified deduction.
+- **15-occams-razor-comparator.md** — Occam's Razor Comparator: Compares competing explanations by the assumptions each one requires.
+- **16-full-computation-discipline.md** — Full Computation Discipline: The complete estimate-compute-verify protocol for any calculation.
+- **17-fermi-estimation-protocol.md** — Fermi Estimation Protocol: Builds a defensible order-of-magnitude answer from decomposed factors.
+- **18-algorithm-before-code.md** — Algorithm Before Code: Forces a verified plan and edge-case list before any code is written.
+- **19-double-solve-verification.md** — Double-Solve Verification: Solves a problem twice by different methods and refuses to answer until they agree.
+- **20-invariant-and-boundary-hunter.md** — Invariant and Boundary Hunter: Finds what stays constant and what happens at the extremes before solving.
+- **21-unit-dimensional-analysis-check.md** — Unit and Dimensional Analysis Check: Catches errors by verifying units cancel correctly at every step.
+- **22-order-of-magnitude-sanity-check.md** — Order-of-Magnitude Sanity Check: A fast gut-check that catches gross numerical errors immediately.
+- **23-complexity-and-scaling-estimator.md** — Complexity and Scaling Estimator: Predicts how a solution's cost grows and whether that's acceptable.
+- **24-statistical-significance-sanity-check.md** — Statistical Significance Sanity Check: Questions whether an observed effect is real or plausibly noise.
+- **25-probability-tree-builder.md** — Probability Tree Builder: Maps out branching outcomes and their probabilities explicitly.
+- **26-optimization-trade-off-solver.md** — Optimization Trade-off Solver: Frames a decision as competing objectives and finds the balance point.
+- **27-numerical-error-propagation-tracker.md** — Numerical Error Propagation Tracker: Tracks how uncertainty in inputs compounds into uncertainty in the result.
+- **28-steelman-both-sides.md** — Steelman Both Sides: Builds the strongest possible case for and against before judging.
+- **29-calibrated-confidence-labeling.md** — Calibrated Confidence Labeling: Attaches an honest confidence level to every substantive claim made.
+- **30-fact-inference-speculation-separator.md** — Fact, Inference, Speculation Separator: Keeps established facts, derived conclusions, and guesses visibly distinct.
+- **31-pre-mortem-failure-simulation.md** — Pre-Mortem Failure Simulation: Imagines a plan has already failed to surface hidden risks now.
+- **32-evidence-grading-protocol.md** — Evidence Grading Protocol: Weights conclusions by how strong the evidence behind them actually is.
+- **33-decision-frame-builder.md** — Decision Frame Builder: Structures a should-I-do-this question into options, criteria, and trade-offs.
+- **34-base-rate-reality-check.md** — Base Rate Reality Check: Anchors a judgment to how often the thing actually happens in general.
+- **35-devils-advocate-challenge.md** — Devil's Advocate Challenge: Actively argues against the conclusion you're leaning toward.
+- **36-source-credibility-evaluator.md** — Source Credibility Evaluator: Assesses how much weight a claimed source or citation deserves.
+- **37-cost-benefit-honest-accounting.md** — Cost-Benefit Honest Accounting: Lists real costs and benefits without quietly favoring one side.
+- **38-second-order-consequence-mapper.md** — Second-Order Consequence Mapper: Traces what happens after the immediate, obvious effect of an action.
+- **39-values-vs-facts-separator.md** — Values vs. Facts Separator: Untangles factual disagreement from disagreement about what matters.
+- **40-opportunity-cost-spotlight.md** — Opportunity Cost Spotlight: Forces explicit naming of what's given up by choosing an option.
+- **41-diverge-then-converge-ideation.md** — Diverge Then Converge Ideation: Generates many free ideas first, then filters hard with real criteria.
+- **42-analogical-transfer-engine.md** — Analogical Transfer Engine: Borrows structural solutions from completely unrelated domains.
+- **43-constraint-driven-ideation-sweep.md** — Constraint-Driven Ideation Sweep: Uses imposed restrictions as a search tool to escape generic ideas.
+- **44-scamper-transformation-sweep.md** — SCAMPER Transformation Sweep: Systematically mutates an existing idea using classic creative operators.
+- **45-expert-ensemble-debate.md** — Expert Ensemble Debate: Simulates several distinct expert perspectives who genuinely disagree.
+- **46-imaginative-scenario-simulation.md** — Imaginative Scenario Simulation: Traces first, second, and third-order effects of a hypothetical premise.
+- **47-raise-the-prose-craft.md** — Raise the Prose Craft: A revision pass that removes clichés and generic writing habits.
+- **48-reverse-assumption-inverter.md** — Reverse Assumption Inverter: Flips the domain's core assumption to find a different class of solution.
+- **49-combinatorial-idea-mashup.md** — Combinatorial Idea Mashup: Forces two unrelated concepts together to spark a genuinely new idea.
+- **50-world-building-consistency-builder.md** — World-Building Consistency Builder: Develops a fictional setting's rules and checks them for internal consistency.
+- **51-metaphor-generator-engine.md** — Metaphor Generator Engine: Produces several distinct metaphors and tests each for accuracy.
+- **52-absurd-to-useful-idea-bridge.md** — Absurd-to-Useful Idea Bridge: Mines a deliberately ridiculous idea for a genuinely usable core.
+- **53-character-depth-deepener.md** — Character Depth Deepener: Adds contradiction and specificity to make a fictional character feel real.
+- **54-plot-hole-hunter.md** — Plot Hole Hunter: Audits a story's logic for consistency, motivation, and causal gaps.
+- **55-genre-bending-remix-prompt.md** — Genre-Bending Remix Prompt: Recombines two unrelated genres to generate a fresh creative angle.
+- **56-intent-inference-beneath-question.md** — Intent Inference Beneath the Question: Answers the real underlying goal, not just the literal words asked.
+- **57-conversation-ledger-tracker.md** — Conversation Ledger Tracker: Maintains goals, decisions, constraints, and facts across a long chat.
+- **58-ambiguity-resolution-rule.md** — Ambiguity Resolution Rule: Decides when to guess-and-flag versus ask exactly one clarifying question.
+- **59-audience-expertise-modeler.md** — Audience Expertise Modeler: Calibrates vocabulary and depth to the reader's inferred level and goal.
+- **60-grounded-document-answering.md** — Grounded Document Answering: Anchors every claim in a provided source and flags what it doesn't cover.
+- **61-charitable-reader-interpreter.md** — Charitable Reader Interpreter: Reads messy or emotional input for its intended meaning, not its flaws.
+- **62-tone-and-emotion-matcher.md** — Tone and Emotion Matcher: Adjusts response register to fit the emotional weight of the moment.
+- **63-multi-question-thread-untangler.md** — Multi-Question Thread Untangler: Separates and answers every distinct question buried in one message.
+- **64-long-conversation-drift-check.md** — Long Conversation Drift Check: Catches when a reply has stopped matching the conversation's real, current goal.
+- **65-stated-preference-persistence-rule.md** — Stated Preference Persistence Rule: Keeps a user's format and style preferences in force for the whole session.
+- **66-hidden-need-excavator.md** — Hidden Need Excavator: Digs past a surface request to the deeper problem it's meant to solve.
+- **67-context-window-prioritizer.md** — Context Window Prioritizer: Decides what from a long input actually matters for the task at hand.
+- **68-goal-tree-builder.md** — Goal Tree Builder: Turns a vague ambition into a checked, executable task structure.
+- **69-plan-execute-review-loop.md** — Plan-Execute-Review Loop: Cycles through planning, doing, and reviewing so work never drifts unchecked.
+- **70-resource-constrained-planner.md** — Resource-Constrained Planner: Plans within real budgets of time, money, and people instead of assuming infinity.
+- **71-critical-path-identifier.md** — Critical Path Identifier: Finds the sequence of tasks that actually determines the project timeline.
+- **72-milestone-and-checkpoint-designer.md** — Milestone and Checkpoint Designer: Places concrete, verifiable checkpoints through a long piece of work.
+- **73-risk-register-builder.md** — Risk Register Builder: Catalogs project risks with likelihood, impact, and a mitigation for each.
+- **74-dependency-mapping-protocol.md** — Dependency Mapping Protocol: Maps what blocks what so tasks aren't attempted out of order.
+- **75-minimum-viable-plan.md** — Minimum Viable Plan: Strips a plan to the smallest version that still tests the core idea.
+- **76-contingency-branch-planner.md** — Contingency Branch Planner: Prepares fallback plans for the most likely ways the main plan could fail.
+- **77-task-prioritization-matrix.md** — Task Prioritization Matrix: Sorts a task list by real urgency and impact instead of gut feel.
+- **78-skeptical-reviewer-pass.md** — Skeptical Reviewer Pass: Switches to an adversarial reviewer mindset before delivering any answer.
+- **79-error-taxonomy-checklist.md** — Error Taxonomy Checklist: A fast targeted scan for the most common model failure types.
+- **80-generate-compare-select-tournament.md** — Generate-Compare-Select Tournament: Produces three independent answers and merges only the verified best.
+- **81-learning-from-correction-loop.md** — Learning-from-Correction Loop: Converts a user's correction into a standing rule for the rest of the session.
+- **82-fabrication-detector-pass.md** — Fabrication Detector Pass: Hunts specifically for invented facts, names, or citations before sending.
+- **83-instruction-compliance-auditor.md** — Instruction Compliance Auditor: Re-checks a draft against every explicit constraint the user actually gave.
+- **84-internal-contradiction-finder.md** — Internal Contradiction Finder: Scans a draft for claims that quietly conflict with each other.
+- **85-claim-verification-tracer.md** — Claim Verification Tracer: Traces each claim back to the specific reasoning or source that supports it.
+- **86-false-completion-detector.md** — False Completion Detector: Catches claims of having done work that wasn't actually performed.
+- **87-edge-case-stress-tester.md** — Edge Case Stress Tester: Deliberately tries to break a solution with unusual or extreme inputs.
+- **88-layered-explanation-builder.md** — Layered Explanation Builder: Explains at three depths so a reader can stop at any level accurately.
+- **89-teach-by-example-first.md** — Teach by Example First: Grounds an abstract concept in a worked example before naming the rule.
+- **90-precision-language-pass.md** — Precision Language Pass: Replaces vague filler with checkable, specific statements.
+- **91-jargon-translation-layer.md** — Jargon Translation Layer: Rewrites technical language for a specified non-expert audience.
+- **92-executive-summary-compressor.md** — Executive Summary Compressor: Compresses a long analysis into the few sentences a decision-maker needs.
+- **93-analogy-based-teaching-tool.md** — Analogy-Based Teaching Tool: Teaches an unfamiliar concept through a carefully checked analogy.
+- **94-socratic-question-closer.md** — Socratic Question Closer: Ends an explanation with one question that tests real understanding.
+- **95-structured-comparison-table-builder.md** — Structured Comparison Table Builder: Lines up options against the same criteria so real trade-offs are visible.
+- **96-full-omni-cognition-protocol.md** — Full Omni-Cognition Protocol: The complete master system prompt combining every faculty at once.
+- **97-compact-cognition-protocol.md** — Compact Cognition Protocol: A short-form version of the master protocol for tight token budgets.
+- **98-math-mode-activator.md** — Math Mode Activator: Biases the session toward maximum rigor on numerical and algorithmic work.
+- **99-creative-mode-activator.md** — Creative Mode Activator: Biases the session toward wide divergence before any creative convergence.
+- **100-verification-mode-activator.md** — Verification Mode Activator: Biases the session toward maximum skepticism and fact-checking rigor.
